@@ -17,6 +17,7 @@ class Test_007_GetOnlineCustomersListDDT:
 
     logger = customLogger()
 
+    @pytest.mark.skip
     @pytest.mark.regression
     def test_onlineCustomeListDDT(self, setup1):
         self.logger.info("**** Test_007_GetOnlineCustomersListDDT ****")

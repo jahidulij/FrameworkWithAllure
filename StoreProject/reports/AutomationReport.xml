@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="11.270" timestamp="2022-10-07T16:08:31.640950" hostname="PQA-0675LT"><testcase classname="StoreProject.testcase.test_addCustomer.Test_003_AddCustomer" name="test_addCustomer" time="11.157" /></testsuite></testsuites>
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="8" time="71.119" timestamp="2022-10-07T16:25:38.220971" hostname="PQA-0675LT"><testcase classname="StoreProject.testcase.test_addCustomer.Test_003_AddCustomer" name="test_addCustomer" time="10.994" /><testcase classname="StoreProject.testcase.test_getOnlineCustomers.Test_006_GetOnlineCustomersList" name="test_onlineCustomerList" time="8.761" /><testcase classname="StoreProject.testcase.test_getOnlineCustomersDDT.Test_007_GetOnlineCustomersListDDT" name="test_onlineCustomeListDDT" time="5.526"><failure message="AttributeError: 'NoneType' object has no attribute 'cell'">self = &lt;StoreProject.testcase.test_getOnlineCustomersDDT.Test_007_GetOnlineCustomersListDDT object at 0x0000023C48F0F760&gt;
+setup1 = &lt;selenium.webdriver.chrome.webdriver.WebDriver (session="d811048c862bf0e640a326951ff76a39")&gt;
+
+    @pytest.mark.regression
+    def test_onlineCustomeListDDT(self, setup1):
+        self.logger.info("**** Test_007_GetOnlineCustomersListDDT ****")
+        self.driver = setup1
+        self.driver.maximize_window()
+        self.driver.implicitly_wait(5)
+        self.driver.get(self.base_url)
+    
+        self.lp = LoginPage(self.driver)
+        self.lp.setEmail(self.email)
+        self.lp.setPassword(self.password)
+        self.lp.clickLogin()
+        self.logger.info("**** Login Successful ****")
+    
+        self.logger.info("**** Start finding online customer list ****")
+    
+        self.addCustomer = AddCustomer(self.driver)
+        self.addCustomer.clickOnCustomerMenu()
+    
+        self.onlineCustomerListDDT = OnlineCustomerListDDT(self.driver)
+        self.onlineCustomerListDDT.clickOnOnlineCustomers()
+&gt;       self.onlineCustomerListDDT.getClientHeaderInfo()
+
+testcase\test_getOnlineCustomersDDT.py:41: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;StoreProject.pageObjects.OnlineCustomerListDDT.OnlineCustomerListDDT object at 0x0000023C48FE64A0&gt;
+
+    def getClientHeaderInfo(self):
+        headers_list = []
+        self.headers_info = self.driver.find_elements(By.XPATH, self.headers_elements_xpath)
+    
+        for tbl_header in self.headers_info:
+            headers_list.append(tbl_header.text)
+        print(headers_list)
+        print(len(headers_list))
+        i = 1
+        while i &lt; len(headers_list):
+            # cell_num = self.sheet.cell(row=1, column=i)
+            # print(cell_num)
+            # print(cell_num.value)
+&gt;           self.sheet.cell(row=3, column=3).value = "Hello World"
+E           AttributeError: 'NoneType' object has no attribute 'cell'
+
+pageObjects\OnlineCustomerListDDT.py:34: AttributeError</failure></testcase><testcase classname="StoreProject.testcase.test_login.Test_001_Login" name="test_homepageTitle" time="4.739" /><testcase classname="StoreProject.testcase.test_login.Test_001_Login" name="test_login" time="4.446" /><testcase classname="StoreProject.testcase.test_login_ddt.Test_001_DDT_Login" name="test_login_ddt" time="19.360" /><testcase classname="StoreProject.testcase.test_searchCustomerByEmail.Test_004_SearchCustomerByEmail" name="test_searchCustomerByEmail" time="8.456" /><testcase classname="StoreProject.testcase.test_searchCustomerByName.Test_005_SearchCustomerByName" name="test_searchCustomerByName" time="8.403" /></testsuite></testsuites>

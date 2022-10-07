@@ -219,3 +219,120 @@
 10/07/2022 04:08:36 PM - Test_003_AddCustomer - INFO: **** Starting Add Customer Test ****
 10/07/2022 04:08:38 PM - Test_003_AddCustomer - INFO: **** Providing Customer Info ****
 10/07/2022 04:08:42 PM - Test_003_AddCustomer - INFO: **** Customer created successfully ****
+10/07/2022 04:14:01 PM - Test_003_AddCustomer - INFO: **** Test_003_AddCustomer ****
+10/07/2022 04:14:05 PM - Test_003_AddCustomer - INFO: **** Login Successful ****
+10/07/2022 04:14:05 PM - Test_003_AddCustomer - INFO: **** Starting Add Customer Test ****
+10/07/2022 04:14:08 PM - Test_003_AddCustomer - INFO: **** Providing Customer Info ****
+10/07/2022 04:14:13 PM - Test_003_AddCustomer - INFO: **** Customer created successfully ****
+10/07/2022 04:14:14 PM - Test_006_GetOnlineCustomersList - INFO: **** Test_006_GetOnlineCustomersList ****
+10/07/2022 04:14:17 PM - Test_006_GetOnlineCustomersList - INFO: **** Login Successful ****
+10/07/2022 04:14:17 PM - Test_006_GetOnlineCustomersList - INFO: **** Start finding online customer list ****
+10/07/2022 04:14:23 PM - Test_006_GetOnlineCustomersList - INFO: **** Header matched ****
+10/07/2022 04:14:23 PM - Test_006_GetOnlineCustomersList - INFO: **** Test_006_GetOnlineCustomersList finished ****
+10/07/2022 04:14:24 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Test_007_GetOnlineCustomersListDDT ****
+10/07/2022 04:14:27 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Login Successful ****
+10/07/2022 04:14:27 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Start finding online customer list ****
+10/07/2022 04:14:29 PM - Test_001_Login - INFO: **** Test_001_Login ****
+10/07/2022 04:14:29 PM - Test_001_Login - INFO: **** Verifying Homepage Title ****
+10/07/2022 04:14:33 PM - Test_001_Login - INFO: **** Homepage title test is passed ****
+10/07/2022 04:14:34 PM - Test_001_Login - INFO: **** Verifying Login Test ****
+10/07/2022 04:14:37 PM - Test_001_Login - INFO: **** Login test is passed ****
+10/07/2022 04:14:38 PM - Test_001_DDT_Login - INFO: **** Test_001_DDT_Login ****
+10/07/2022 04:14:38 PM - Test_001_DDT_Login - INFO: **** Verifying Login Test ****
+10/07/2022 04:14:45 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:14:50 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:14:53 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:14:57 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:14:57 PM - Test_001_DDT_Login - INFO: **** Login DDT test passed ****
+10/07/2022 04:14:59 PM - Test_001_DDT_Login - INFO: **** End of Login DDT Test ****
+10/07/2022 04:14:59 PM - Test_001_DDT_Login - INFO: **** Completed Test_001_DDT_Login ****
+10/07/2022 04:15:00 PM - Test_004_SearchCustomerByEmail - INFO: **** Test_004_SearchCustomerByEmail ****
+10/07/2022 04:15:03 PM - Test_004_SearchCustomerByEmail - INFO: **** Login Successful ****
+10/07/2022 04:15:03 PM - Test_004_SearchCustomerByEmail - INFO: **** Starting Search customer Test ****
+10/07/2022 04:15:04 PM - Test_004_SearchCustomerByEmail - INFO: **** Providing Customer Search Info ****
+10/07/2022 04:15:07 PM - Test_004_SearchCustomerByEmail - INFO: **** Customer found ****
+10/07/2022 04:15:07 PM - Test_004_SearchCustomerByEmail - INFO: **** Test_004_SearchCustomerByEmail finished ****
+10/07/2022 04:15:08 PM - Test_005_SearchCustomerByName - INFO: **** Test_005_SearchCustomerByName ****
+10/07/2022 04:15:11 PM - Test_005_SearchCustomerByName - INFO: **** Login Successful ****
+10/07/2022 04:15:11 PM - Test_005_SearchCustomerByName - INFO: **** Starting Search customer Test ****
+10/07/2022 04:15:12 PM - Test_005_SearchCustomerByName - INFO: **** Providing Customer Search Info ****
+10/07/2022 04:15:15 PM - Test_005_SearchCustomerByName - INFO: **** Customer found ****
+10/07/2022 04:15:15 PM - Test_005_SearchCustomerByName - INFO: **** Test_005_SearchCustomerByName finished ****
+10/07/2022 04:21:35 PM - Test_003_AddCustomer - INFO: **** Test_003_AddCustomer ****
+10/07/2022 04:21:39 PM - Test_003_AddCustomer - INFO: **** Login Successful ****
+10/07/2022 04:21:39 PM - Test_003_AddCustomer - INFO: **** Starting Add Customer Test ****
+10/07/2022 04:21:41 PM - Test_003_AddCustomer - INFO: **** Providing Customer Info ****
+10/07/2022 04:21:45 PM - Test_003_AddCustomer - INFO: **** Customer created successfully ****
+10/07/2022 04:21:46 PM - Test_006_GetOnlineCustomersList - INFO: **** Test_006_GetOnlineCustomersList ****
+10/07/2022 04:21:49 PM - Test_006_GetOnlineCustomersList - INFO: **** Login Successful ****
+10/07/2022 04:21:49 PM - Test_006_GetOnlineCustomersList - INFO: **** Start finding online customer list ****
+10/07/2022 04:21:55 PM - Test_006_GetOnlineCustomersList - INFO: **** Header matched ****
+10/07/2022 04:21:55 PM - Test_006_GetOnlineCustomersList - INFO: **** Test_006_GetOnlineCustomersList finished ****
+10/07/2022 04:21:56 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Test_007_GetOnlineCustomersListDDT ****
+10/07/2022 04:21:59 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Login Successful ****
+10/07/2022 04:21:59 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Start finding online customer list ****
+10/07/2022 04:22:01 PM - Test_001_Login - INFO: **** Test_001_Login ****
+10/07/2022 04:22:01 PM - Test_001_Login - INFO: **** Verifying Homepage Title ****
+10/07/2022 04:22:04 PM - Test_001_Login - INFO: **** Homepage title test is passed ****
+10/07/2022 04:22:06 PM - Test_001_Login - INFO: **** Verifying Login Test ****
+10/07/2022 04:22:08 PM - Test_001_Login - INFO: **** Login test is passed ****
+10/07/2022 04:22:09 PM - Test_001_DDT_Login - INFO: **** Test_001_DDT_Login ****
+10/07/2022 04:22:09 PM - Test_001_DDT_Login - INFO: **** Verifying Login Test ****
+10/07/2022 04:22:15 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:22:19 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:22:23 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:22:26 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:22:26 PM - Test_001_DDT_Login - INFO: **** Login DDT test passed ****
+10/07/2022 04:22:26 PM - Test_001_DDT_Login - INFO: **** End of Login DDT Test ****
+10/07/2022 04:22:26 PM - Test_001_DDT_Login - INFO: **** Completed Test_001_DDT_Login ****
+10/07/2022 04:22:27 PM - Test_004_SearchCustomerByEmail - INFO: **** Test_004_SearchCustomerByEmail ****
+10/07/2022 04:22:30 PM - Test_004_SearchCustomerByEmail - INFO: **** Login Successful ****
+10/07/2022 04:22:30 PM - Test_004_SearchCustomerByEmail - INFO: **** Starting Search customer Test ****
+10/07/2022 04:22:31 PM - Test_004_SearchCustomerByEmail - INFO: **** Providing Customer Search Info ****
+10/07/2022 04:22:34 PM - Test_004_SearchCustomerByEmail - INFO: **** Customer found ****
+10/07/2022 04:22:34 PM - Test_004_SearchCustomerByEmail - INFO: **** Test_004_SearchCustomerByEmail finished ****
+10/07/2022 04:22:35 PM - Test_005_SearchCustomerByName - INFO: **** Test_005_SearchCustomerByName ****
+10/07/2022 04:22:38 PM - Test_005_SearchCustomerByName - INFO: **** Login Successful ****
+10/07/2022 04:22:38 PM - Test_005_SearchCustomerByName - INFO: **** Starting Search customer Test ****
+10/07/2022 04:22:39 PM - Test_005_SearchCustomerByName - INFO: **** Providing Customer Search Info ****
+10/07/2022 04:22:42 PM - Test_005_SearchCustomerByName - INFO: **** Customer found ****
+10/07/2022 04:22:42 PM - Test_005_SearchCustomerByName - INFO: **** Test_005_SearchCustomerByName finished ****
+10/07/2022 04:25:39 PM - Test_003_AddCustomer - INFO: **** Test_003_AddCustomer ****
+10/07/2022 04:25:43 PM - Test_003_AddCustomer - INFO: **** Login Successful ****
+10/07/2022 04:25:43 PM - Test_003_AddCustomer - INFO: **** Starting Add Customer Test ****
+10/07/2022 04:25:45 PM - Test_003_AddCustomer - INFO: **** Providing Customer Info ****
+10/07/2022 04:25:49 PM - Test_003_AddCustomer - INFO: **** Customer created successfully ****
+10/07/2022 04:25:50 PM - Test_006_GetOnlineCustomersList - INFO: **** Test_006_GetOnlineCustomersList ****
+10/07/2022 04:25:53 PM - Test_006_GetOnlineCustomersList - INFO: **** Login Successful ****
+10/07/2022 04:25:53 PM - Test_006_GetOnlineCustomersList - INFO: **** Start finding online customer list ****
+10/07/2022 04:25:58 PM - Test_006_GetOnlineCustomersList - INFO: **** Header matched ****
+10/07/2022 04:25:58 PM - Test_006_GetOnlineCustomersList - INFO: **** Test_006_GetOnlineCustomersList finished ****
+10/07/2022 04:25:59 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Test_007_GetOnlineCustomersListDDT ****
+10/07/2022 04:26:02 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Login Successful ****
+10/07/2022 04:26:02 PM - Test_007_GetOnlineCustomersListDDT - INFO: **** Start finding online customer list ****
+10/07/2022 04:26:05 PM - Test_001_Login - INFO: **** Test_001_Login ****
+10/07/2022 04:26:05 PM - Test_001_Login - INFO: **** Verifying Homepage Title ****
+10/07/2022 04:26:08 PM - Test_001_Login - INFO: **** Homepage title test is passed ****
+10/07/2022 04:26:10 PM - Test_001_Login - INFO: **** Verifying Login Test ****
+10/07/2022 04:26:13 PM - Test_001_Login - INFO: **** Login test is passed ****
+10/07/2022 04:26:14 PM - Test_001_DDT_Login - INFO: **** Test_001_DDT_Login ****
+10/07/2022 04:26:14 PM - Test_001_DDT_Login - INFO: **** Verifying Login Test ****
+10/07/2022 04:26:21 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:26:25 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:26:29 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:26:32 PM - Test_001_DDT_Login - INFO: **** Passed ****
+10/07/2022 04:26:32 PM - Test_001_DDT_Login - INFO: **** Login DDT test passed ****
+10/07/2022 04:26:32 PM - Test_001_DDT_Login - INFO: **** End of Login DDT Test ****
+10/07/2022 04:26:32 PM - Test_001_DDT_Login - INFO: **** Completed Test_001_DDT_Login ****
+10/07/2022 04:26:33 PM - Test_004_SearchCustomerByEmail - INFO: **** Test_004_SearchCustomerByEmail ****
+10/07/2022 04:26:36 PM - Test_004_SearchCustomerByEmail - INFO: **** Login Successful ****
+10/07/2022 04:26:36 PM - Test_004_SearchCustomerByEmail - INFO: **** Starting Search customer Test ****
+10/07/2022 04:26:37 PM - Test_004_SearchCustomerByEmail - INFO: **** Providing Customer Search Info ****
+10/07/2022 04:26:40 PM - Test_004_SearchCustomerByEmail - INFO: **** Customer found ****
+10/07/2022 04:26:40 PM - Test_004_SearchCustomerByEmail - INFO: **** Test_004_SearchCustomerByEmail finished ****
+10/07/2022 04:26:42 PM - Test_005_SearchCustomerByName - INFO: **** Test_005_SearchCustomerByName ****
+10/07/2022 04:26:44 PM - Test_005_SearchCustomerByName - INFO: **** Login Successful ****
+10/07/2022 04:26:44 PM - Test_005_SearchCustomerByName - INFO: **** Starting Search customer Test ****
+10/07/2022 04:26:45 PM - Test_005_SearchCustomerByName - INFO: **** Providing Customer Search Info ****
+10/07/2022 04:26:49 PM - Test_005_SearchCustomerByName - INFO: **** Customer found ****
+10/07/2022 04:26:49 PM - Test_005_SearchCustomerByName - INFO: **** Test_005_SearchCustomerByName finished ****
