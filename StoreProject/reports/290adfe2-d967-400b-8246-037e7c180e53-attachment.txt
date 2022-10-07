@@ -1,0 +1,9 @@
+INFO     WDM:logger.py:16 ====== WebDriver manager ======
+INFO     WDM:logger.py:16 Current google-chrome version is 105.0.5195
+INFO     WDM:logger.py:16 Get LATEST chromedriver version for 105.0.5195 google-chrome
+INFO     WDM:logger.py:16 Driver [C:\Users\JahidulIslam\.wdm\drivers\chromedriver\win32\105.0.5195.52\chromedriver.exe] found in cache
+INFO     Test_003_AddCustomer:test_addCustomer.py:23 **** Test_003_AddCustomer ****
+INFO     Test_003_AddCustomer:test_addCustomer.py:33 **** Login Successful ****
+INFO     Test_003_AddCustomer:test_addCustomer.py:35 **** Starting Add Customer Test ****
+INFO     Test_003_AddCustomer:test_addCustomer.py:47 **** Providing Customer Info ****
+INFO     Test_003_AddCustomer:test_addCustomer.py:76 **** Customer created successfully ****
